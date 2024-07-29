@@ -14,7 +14,7 @@
 ## 🛠️ Skills
 
 - Programming Languages: PHP, Python, Typescript.
-- Frameworks: Laravel
+- Frameworks: Laravel, React
 - Tools: Git, Docker.
 
 - ## 📈 My GitHub Stats
