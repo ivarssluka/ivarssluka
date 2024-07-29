@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Online Banking App](https://github.com/ivarssluka/onlinebank).
 - 🌱 I’m currently learning PHP and Laravel framework.
 - 👯 I’m looking to collaborate on any project i can put my hands on as i'm eager to learn new stuff and contribute my knowledge.
-- 📫 How to reach me: [ivarssluka@gmail.com](mailto:ivarssluka@gmail.com).
+- 📫 How to reach me: [email](mailto:ivarssluka@gmail.com). [LinkedIn](https://www.linkedin.com/in/ivarssluka)
 
 ## 🚀 Some other projects i've been working on.
 
