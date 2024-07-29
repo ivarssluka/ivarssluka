@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on [Online Banking App]([https://github.com/johnDoe/ProjectX](https://github.com/ivarssluka/onlinebank))
+- 🔭 I’m currently working on [Online Banking App](https://github.com/ivarssluka/onlinebank)
 - 🌱 I’m currently learning PHP and Laaaravel framework
 - - 👯 I’m looking to collaborate on any project i can put my hands on as i'm eager to learn new stuff and contribute my knowledge.
 - 📫 How to reach me: [ivarssluka@gmail.com](mailto:ivarssluka@gmail.com)
