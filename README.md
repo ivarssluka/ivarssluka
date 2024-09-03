@@ -7,7 +7,7 @@
 - 📫 How to reach me: [email](mailto:ivarssluka@gmail.com) [LinkedIn](https://www.linkedin.com/in/ivarssluka)
 
 ## 🚀 Some other projects i've been working on.
-
+- [CV Form App (Laravel)](https://github.com/ivarssluka/laravel-cv-generator).
 - [Articles Website](https://github.com/ivarssluka/ArticlesWebsite).
 - [Crypto Trading app](https://github.com/ivarssluka/CryptoTrade).
 
