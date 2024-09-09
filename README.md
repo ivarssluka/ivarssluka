@@ -64,11 +64,9 @@ If you are interested in working together or have any cool projects in mind, fee
 
 ## 📈 My GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivarssluka&theme=darcula)](https://git.io/streak-stats)
-
-![Ivars GitHub stats](https://github-readme-stats.vercel.app/api?username=ivarssluka&show_icons=true&theme=darcula)  
-  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivarssluka&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats) 
+![ivarssluka's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ivarssluka&theme=darcula&hide_border=false)
+![ivarssluka's Stats](https://github-readme-stats.vercel.app/api?username=ivarssluka&theme=darcula&show_icons=true&hide_border=false&count_private=true)  
+![ivarssluka's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivarssluka&theme=darcula&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
