@@ -35,6 +35,18 @@ If you are interested in working together or have any cool projects in mind, fee
 [![Crypto Trading App](https://img.shields.io/badge/Crypto%20Trading%20App-PHP-blue?style=for-the-badge&logo=github)](https://github.com/ivarssluka/CryptoTrade/tree/CryptoTradeWeb)
 
 ---
+
+### 🚀 And a few front-end layout designs:
+
+[![IS Services landing page](https://img.shields.io/badge/IS%20Services%20Landing%20Page-Bootstrap%20HTML%20CSS-blue?style=for-the-badge&logo=github)](https://github.com/ivarssluka/responsive-solutions)
+
+[![Super Mario Website](https://img.shields.io/badge/Super%20Mario%20Responsive%20Design-HTML%20%26%20CSS-blue?style=for-the-badge&logo=github)](https://github.com/ivarssluka/responsive-mario)
+
+[![E-book Shop](https://img.shields.io/badge/E%20Book%20Shop-Bootstrap-blue?style=for-the-badge&logo=github)](https://github.com/ivarssluka/netninjabootstrap)
+
+---
+
+
 <div align="center">
 
 ## 🛠️ Skills:
