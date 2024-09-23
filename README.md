@@ -6,7 +6,7 @@ I'm Ivars, a passionate developer who is focused on learning and building web ap
 
 ### 🔭 I’m currently working on:
 
-[![Online Banking App](https://img.shields.io/badge/Online%20Banking%20App-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/ivarssluka/onlinebank)
+[![Online Banking App](https://img.shields.io/badge/Online%20Banking%20App-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/ivarssluka/larabank)
 
 ---
 
