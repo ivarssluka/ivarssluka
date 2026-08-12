@@ -85,16 +85,27 @@ Interested in working together or have a cool project in mind? Reach out anytime
 
 ## 📊 GitHub Stats
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-stats-extended.vercel.app/api?username=ivarssluka&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="100%" alt="ivarssluka's GitHub stats" />
+</td>
+<td width="50%" valign="top">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivarssluka&theme=radical&hide_border=true" width="100%" alt="ivarssluka's GitHub streak" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivarssluka&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="100%" alt="ivarssluka's Top Languages" />
+</td>
+<td width="50%" valign="top">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivarssluka&theme=react-dark&hide_border=true" width="100%" alt="ivarssluka's Activity Graph" />
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=ivarssluka&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="ivarssluka's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivarssluka&theme=radical&hide_border=true" width="49%" alt="ivarssluka's GitHub streak" />
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivarssluka&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="49%" alt="ivarssluka's Top Languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivarssluka&theme=react-dark&hide_border=true" width="49%" alt="ivarssluka's Activity Graph" />
-
-<img src="https://github-trophies.vercel.app/?username=ivarssluka&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="ivarssluka's GitHub Trophies" />
-
+<img src="https://github-trophies.vercel.app/?username=ivarssluka&theme=radical&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" alt="ivarssluka's GitHub Trophies" />
 </div>
 
 ---
