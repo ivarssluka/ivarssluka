@@ -87,13 +87,13 @@ Interested in working together or have a cool project in mind? Reach out anytime
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ivarssluka&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="49%" alt="ivarssluka's GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=ivarssluka&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="ivarssluka's GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivarssluka&theme=radical&hide_border=true" width="49%" alt="ivarssluka's GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivarssluka&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" width="49%" alt="ivarssluka's Top Languages" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ivarssluka&theme=radical&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="49%" alt="ivarssluka's Top Languages" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivarssluka&theme=react-dark&hide_border=true" width="49%" alt="ivarssluka's Activity Graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ivarssluka&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="ivarssluka's GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=ivarssluka&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="ivarssluka's GitHub Trophies" />
 
 </div>
 
